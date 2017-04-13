@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+  - enabled: 1
+    path: Assets/Scenes/profileMain.unity
+  - enabled: 1
+    path: Assets/Scenes/inventoryMain.unity
+  - enabled: 1
+    path: Assets/Scenes/msgMain.unity
+  - enabled: 1
+    path: Assets/Scenes/settingsMain.unity
+  - enabled: 1
+    path: Assets/Scenes/messageGroups/mainMsgGroup.unity
+  - enabled: 1
+    path: Assets/Scenes/messageGroups/krownMsg.unity
+  - enabled: 1
+    path: Assets/Scenes/messageGroups/cityNews.unity
+  - enabled: 1
+    path: Assets/Scenes/messageGroups/quickfireMsg.unity
+  - enabled: 1
+    path: Assets/Scenes/settings/profileSettings.unity
+  - enabled: 1
+    path: Assets/Scenes/profiles/playerProfile.unity
+  - enabled: 1
+    path: Assets/Scenes/profiles/aaProfile.unity
+  - enabled: 1
+    path: Assets/Scenes/profiles/doaProfile.unity
+  - enabled: 1
+    path: Assets/Scenes/profiles/l33tProfile.unity
